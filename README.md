@@ -28,10 +28,16 @@ The goal was to create a clean, user-friendly interface that simulates a real-wo
 ## 📂 Folder Structure
 
 e-learning-platform/
-│── index.html # Course listing page
-│── course.html # Course video page
-│── progress.html # Progress tracking page
-│── styles.css # Styling file
+│── index.html
+│── course.html
+│── progress.html
+│── styles.css
+│── README.md
+│
+├── screenshots/
+│   ├── home.png
+│   ├── course.png
+│   ├── progress.png
 ---
 
 ## ✨ Features
