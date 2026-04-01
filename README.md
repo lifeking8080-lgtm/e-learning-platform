@@ -38,7 +38,6 @@ e-learning-platform/
 │   ├── home.png
 │   ├── course.png
 │   ├── progress.png
----
 
 ## ✨ Features
 
