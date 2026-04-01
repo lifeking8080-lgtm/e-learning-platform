@@ -28,6 +28,7 @@ The goal was to create a clean, user-friendly interface that simulates a real-wo
 ## 📂 Folder Structure
 
 e-learning-platform/
+
 │── index.html
 │── course.html
 │── progress.html
